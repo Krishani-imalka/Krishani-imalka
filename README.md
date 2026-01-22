@@ -93,12 +93,12 @@
       <td align="center" width="50%" style="padding: 10px;">
         <img src="https://github-readme-stats.vercel.app/api?username=krishani-imalka&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
       </td>
-      <td align="center" width="50%" style="padding: 10px;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishani-imalka&theme=tokyonight" alt="GitHub Streak Stats" />
-      </td>
-<!--       <td align="center" width="50%" style="padding: 10px;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=krishani-imalka&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
+      <!-- <td align="center" width="50%" style="padding: 10px;">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishani-imalka&theme=tokyonight" alt="GitHub Streak Stats" /> 
       </td> -->
+   <!-- <td align="center" width="50%" style="padding: 10px;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=krishani-       imalka&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+      </td>  -->
     </tr>
   </table>
 </div>
