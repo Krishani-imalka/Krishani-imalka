@@ -125,6 +125,5 @@
 
 ⭐ **If you like my profile, give it a star!** ⭐
 
-*Made with ❤️ by Krish from Sri Lanka 🇱🇰*
 
 </div>
