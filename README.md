@@ -1,109 +1,130 @@
-<p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
-
-<h1 align="center">Hi 👋, I'm Krishani Imalka</h1>
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-<h3 align="center">A passionate frontend developer from Sri lanka</h3>
-
-<p align="Center"> <img src="https://komarev.com/ghpvc/?username=krishani-imalka&label=Profile%20views&color=0e75b6&style=flat" alt="krishani-imalka" /> </p><br>
-<img align="right" width=300px height=280px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
-
-- 🧑‍🎓 I’m an BICT Undergraduate at **University of Ruhuna Faculty of Technology**
-  
-- 🌱 I’m currently learning **C, PHP, Java, React Js**
-  
-- 💬 Ask me about **Javascript, PHP**
-
-- 📫 How to reach me **krishani08imalka@gmail.com**
-
-- ⚡ Fun fact **Call me as krish**
-  <br>
-  
-
-<br>
-<h3 align="left"> - <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;Connect with me:</h3>
-<p align="left">
-  <br>
-<a href="https://linkedin.com/in/www.linkedin.com/in/krishani-imalka-4b2a11297" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/krishani-imalka-4b2a11297" height="30" width="40" /></a>
-<a href="https://fb.com/krishani imlka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="krishani imlka" height="30" width="40" /></a>
-<a href="https://instagram.com/krishuu___15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="krishuu___15" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/krishani08imalka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="krishani08imalka" height="30" width="40" /></a>
-</p><br>
-
----
-
-<h3 align="Center">Languages and Tools:</h3>
-<table align="center" border="1" cellpadding="10">
-  <tr>
-    <th>Frontend</th>
-    <th>Backend</th>
-    <th>Database</th>
-    <th>Programming</th>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-      </a><br>
-      <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-      </a><br>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-      </a><br>
-      <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-      </a><br>
-      <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-      </a>
-    </td>
-    <td align="center">
-        <a href="https://www.java.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-      </a><br>
-      <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-      </a><br>
-      <a href="https://www.php.net" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-      </a><br>
-    </td>
-    <td align="center">
-      <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-      </a><br>
-      <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-      </a><br>
-    </td>
-  </tr>
-</table>
-
- 
----
-
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%" style="padding: 10px;">
-        <img src="https://github-readme-stats.vercel.app/api?username=krishani-imalka&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
-      </td>
-      <!-- <td align="center" width="50%" style="padding: 10px;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishani-imalka&theme=tokyonight" alt="GitHub Streak Stats" /> 
-      </td> -->
-   <!-- <td align="center" width="50%" style="padding: 10px;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=krishani-       imalka&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-      </td>  -->
-    </tr>
-  </table>
+
+<!-- ANIMATED BANNER -->
+ <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,8,16,24&height=220&section=header&text=Krishani%20Imalka&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=55&stroke=ffffff&strokeWidth=1" width="100%"/> 
 </div>
 
+<!-- TYPING ANIMATION -->
+<div align="center">
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Josefin+Sans&weight=700&size=26&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&random=false&width=600&height=50&lines=Full+Stack+Developer+%F0%9F%92%BB;BICT+Undergraduate+%F0%9F%8E%93;React+%7C+Node.js+%7C+Spring+Boot+Dev;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1;Open+to+Collaborate+%F0%9F%A4%9D;Based+in+Sri+Lanka+%F0%9F%87%B1%F0%9F%87%B0" alt="Typing SVG" />
+</a>
+</div>
+
+<br/>
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=Krishani-imalka&label=Profile+Views&color=00d9ff&style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/followers/Krishani-imalka?label=Followers&style=for-the-badge&color=00d9ff)
+![GitHub stars](https://img.shields.io/github/stars/Krishani-imalka?label=Stars&style=for-the-badge&color=ff6b9d)
+
+</div>
+
+---
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> About Me
 
 
+### 👩‍💻 Krishani Imalka — *"Krish"*
+
+🎓 **BICT Undergraduate** at University of Ruhuna, Faculty of Technology
+
+🌍 Based in **Sri Lanka 🇱🇰**
+
+🌱 Currently learning **Mern · springBoot · Java**
+
+💬 Ask me about **JavaScript** and **PHP**
+
+📫 Reach me at **krishani08imalka@gmail.com**
+
+🎯 Passionate about building **beautiful, user-friendly web experiences**
+
+⚡ Fun fact: *I turn ☕ into beautiful UIs*
+
+🚀 Motto: **Code. Learn. Repeat.** </br>
 
 
+---
+
+## 🚀 Tech Stack & Tools
+
+### 🎨 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### ⚙️ Backend & Runtime
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+
+### 💻 Programming Languages
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+### 🗄️ Database
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### 🛠️ Tools & Platforms
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![npm](https://img.shields.io/badge/npm-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) </br>
+
+---
+
+## 📊 GitHub Analytics
+
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td valign="left" width="60%"> 
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Krishani-imalka&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00d9ff&icon_color=ff6b9d&text_color=c9d1d9"/> 
+</div>
+
+<td valign="right" width="60%"> 
+<div align="center">
+  <img width="70%" src="https://streak-stats.demolab.com/?user=Krishani-imalka&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d9ff&ring=ff6b9d&fire=ff6b9d&currStreakLabel=00d9ff"/>
+</div>
+</tr>
+</table>
+
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Krishani-imalka&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d9ff&line=ff6b9d&point=ffffff&area=true&area_color=00d9ff"/>
+</div>
+
+---
+
+## 🌐 Let's Connect!
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishani-imalka-4b2a11297)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/krishani%20imlka)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/krishuu___15)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/krishani08imalka)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:krishani08imalka@gmail.com)
+
+</div>
+
+<br>
+
+<div align="center">
+
+⭐ **If you like my profile, give it a star!** ⭐
+
+*Made with ❤️ by Krish from Sri Lanka 🇱🇰*
+
+</div>
