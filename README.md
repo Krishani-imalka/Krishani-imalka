@@ -67,10 +67,15 @@
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 
 ### 🗄️ Database
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![pgAdmin](https://img.shields.io/badge/pgAdmin-336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24.svg?style=for-the-badge&logo=xampp&logoColor=white)
 
 ### 🛠️ Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -86,15 +91,16 @@
 
 <table border="0" cellpadding="0" cellspacing="0">
 <tr>
-<td valign="left" width="50%"> 
+<td valign="top" width="50%">
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Krishani-imalka&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00d9ff&icon_color=ff6b9d&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Krishani-imalka&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&bg_color=0d1117&title_color=00d9ff&icon_color=ff6b9d&text_color=c9d1d9" />
 </div>
-
-<td valign="right" width="50%"> 
+</td>
+<td valign="top" width="50%">
 <div align="center">
-  <img width="70%" src="https://streak-stats.demolab.com/?user=Krishani-imalka&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d9ff&ring=ff6b9d&fire=ff6b9d&currStreakLabel=00d9ff"/>
+  <img width="70%" src="https://streak-stats.demolab.com/?user=Krishani-imalka&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d9ff&ring=ff6b9d&fire=ff6b9d&currStreakLabel=00d9ff" />
 </div>
+</td>
 </tr>
 </table>
 
