@@ -90,18 +90,18 @@
 ## 📊 GitHub Analytics
 
 <table border="0" cellpadding="0" cellspacing="0">
-<tr>
+<!-- <tr>
 <td valign="top" width="50%">
 <div align="center">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Krishani-imalka&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&bg_color=0d1117&title_color=00d9ff&icon_color=ff6b9d&text_color=c9d1d9" />
 </div>
 </td>
-<td valign="top" width="50%">
+<td valign="top" width="50%"> -->
 <div align="center">
   <img width="70%" src="https://streak-stats.demolab.com/?user=Krishani-imalka&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d9ff&ring=ff6b9d&fire=ff6b9d&currStreakLabel=00d9ff" />
 </div>
 </td>
-</tr>
+<!-- </tr> -->
 </table>
 
 
